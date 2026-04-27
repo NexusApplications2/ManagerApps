@@ -1,0 +1,39 @@
+name: Feature request
+description: Sugira uma melhoria ou novo fluxo
+title: "[Feature]: "
+labels:
+  - enhancement
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problema
+      description: Qual dor do usuário essa melhoria resolve?
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Solução proposta
+      description: Como você imagina o fluxo?
+    validations:
+      required: true
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: Área afetada
+      options:
+        - Discord/painéis
+        - Carrinho/checkout
+        - Licenças
+        - Hosts
+        - Base Bot
+        - Documentação
+        - Outro
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Contexto adicional
