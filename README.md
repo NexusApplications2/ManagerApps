@@ -1,6 +1,6 @@
-# Manager Niox JS
+# Manager Applications
 
-Manager Niox JS é um manager em Node.js para vender, licenciar, provisionar, renovar e gerenciar bots pelo Discord.
+Este é um bot manager em Node.js para vender, licenciar, provisionar, renovar e gerenciar bots pelo Discord.
 
 Ele foi pensado para quem vende bots como produto: o cliente compra em um painel no Discord, o manager controla pagamento/licença e entrega o bot no formato escolhido.
 
