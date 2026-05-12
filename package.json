@@ -49,7 +49,7 @@
     "qrcode": "^1.5.4",
     "qrcode-pix": "^5.0.0",
     "sdk-node-apis-efi": "^1.2.25",
-    "semver": "^7.7.2",
+    "semver": "^7.8.0",
     "wio.db": "^4.0.22"
   },
   "_moduleAliases": {
